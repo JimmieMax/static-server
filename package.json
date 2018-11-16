@@ -1,0 +1,12 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-static": "^5.0.0"
+  },
+  "author": "Jimmie Max"
+}
