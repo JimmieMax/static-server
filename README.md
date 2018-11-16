@@ -1,0 +1,2 @@
+# static-server
+include https
